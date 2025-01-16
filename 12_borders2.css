@@ -1,0 +1,15 @@
+/*[solid, dashed, dotted, groove, ridge, double, inset, outset, none, dashdot, dashdotdot]*/
+h1{
+        border: 4px solid #1811d1;
+        border-radius: 20px;
+}
+P{
+        border-bottom: 4px solid rgb(21, 230, 146);
+        border-top: 4px dotted #0ade1f;
+        border-left: 4px dashed #dec50a;
+        border-right: 4px dashed #de7b0a;
+        border-radius: 20px;
+}
+body{
+        background-color: wheat;
+}

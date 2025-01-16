@@ -1,0 +1,12 @@
+*{
+        box-sizing: border-box;
+}
+.box{
+        border: 2px solid ;
+        padding: 25px;
+        height: auto;
+        width: 50%;
+        float: left;
+        text-align: center;
+        
+}

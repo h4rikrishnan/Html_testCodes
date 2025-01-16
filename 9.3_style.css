@@ -1,0 +1,33 @@
+body{
+        background-color: black;
+}
+h1{
+        color: wheat;
+}
+#p1{
+        color: red;
+}
+#p2{
+        color: aqua;
+}
+#p3{
+        color: chartreuse;
+}
+#p4{
+        color: orange;
+}
+.odd{
+        color: brown;
+}
+.even{
+        color: azure;
+}
+#pl{
+        color: rgb(144, 41, 41);
+}
+#h1l{
+        color: rgb(80, 28, 28);
+}
+#h4l{
+        color: rgb(80, 28, 28);
+}

@@ -1,12 +1,19 @@
 *{
         box-sizing: border-box;
 }
+.container{
+        background-color: bisque;
+        height: 100vh;
+}
 .box{
+        background-color: cadetblue;
         border: 2px solid ;
         padding: 25px;
         height: auto;
         width: 50%;
         float: left;
         text-align: center;
+
+        max-height: 50%;
         
 }

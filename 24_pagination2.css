@@ -1,0 +1,18 @@
+.pagi{
+        text-align: center;
+}
+.pagi a{
+        color: rgb(22, 20, 20);
+        text-decoration: none;
+        padding: 8px 15px;
+        display: inline;
+}
+.pagi a.active{
+        background-color: rgb(30, 224, 228);
+        font-weight: bold;
+        border-radius: 5px;
+}
+.pagi a:hover:not(.active){
+        background-color: rgb(157, 148, 148);
+        border-radius: 5px;
+}

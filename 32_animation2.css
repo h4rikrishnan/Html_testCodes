@@ -1,0 +1,20 @@
+#b{
+        width: 200px;
+        height: 200px;
+        font-size: 11em;
+        background-color: rgb(169, 71, 255);
+        text-align: center;
+        text-align: center;
+        animation-name: grow;
+        animation-duration: 3s;
+}
+@keyframes rotate{
+        50%{
+                transform: rotateZ(360deg);
+        }
+}
+@keyframes grow{
+        50%{
+                transform: scale(50%,50%);
+        }
+}
